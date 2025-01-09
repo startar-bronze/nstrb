@@ -13,6 +13,7 @@ The Startarcoins team is offering holders the opportunity to migrate their old S
 ### Key Details:
 - **Token Swap:** Your tokens will be exchanged at their fair value.
 - **New Contract:** The new, more secure contract is named **NEW STARTARBRONZE (NSTRB)**.
+- "Our Values: Efficiency, Transparency, and Security."
 
 ### NSTRB Smart Contract Address:
 [NSTRB Smart Contract on BSC](https://bscscan.com/address/0xce8c2560ccc21bbefde35b1fe790256f80e12c87)
