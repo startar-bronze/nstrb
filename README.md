@@ -1,7 +1,7 @@
 # NSTRB
 ### New Startar Bronze Official Repository
 
-Welcome to the official repository for the New Startar Bronze (NSTRB) project. This initiative represents the evolution of the current Startar Bronze cryptocurrency (STRB), providing holders with a secure and innovative future.
+Welcome to the official repository for the New Startar Bronze (NSTRB) Bep 20 project. This initiative represents the evolution of the current Startar Bronze cryptocurrency (STRB), providing holders with a secure and innovative future.
 
 ---
 
@@ -14,7 +14,7 @@ The Startarcoins team is offering holders the opportunity to migrate their old S
 - **Token Swap:** Your tokens will be exchanged at their fair value.
 - **New Contract:** The new, more secure contract is named **NEW STARTARBRONZE (NSTRB)**.
 
-### Smart Contract Address:
+### NSTRB Smart Contract Address:
 [NSTRB Smart Contract on BSC](https://bscscan.com/address/0xce8c2560ccc21bbefde35b1fe790256f80e12c87)
 
 ### Logo:
@@ -52,6 +52,7 @@ Once added, complete the [Google Form](https://forms.gle/QuC2KXu4mXv32dRRA) to r
   - [Startarcoins on X](https://x.com/xforstartarcoin)
   - [Startarcoins on Facebook](https://www.facebook.com/startarcoins/)
 - Official website development, https://nstrb.startarcoins.com
+- possibility to migrate your STRB to NSTRB
 - ICO launch, partner onboarding, and roadmap publication.
 - Official launch sponsored by **Groupe Business Thérapie**, hosting the crypto hub **Startarcoins**.
 
@@ -74,3 +75,4 @@ The current STRB is still available for trade at:
 ---
 
 Thank you for your support and trust in Startarcoins. Together, we are building a brighter, secure future for NSTRB!
+"Startarcoins and NSTRB services are not available in prohibited jurisdictions."
